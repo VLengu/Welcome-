@@ -1,0 +1,16 @@
+.box {
+    width: 200px;
+    height: 200px;
+    background-image: url("./falcons.webp");
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.p {
+    font-size: 30px;
+    font-family: "kaiti";
+    font-style: italic;
+    font-weight: bold;
+    color: #cfcfcf;
+}
